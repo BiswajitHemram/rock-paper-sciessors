@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, #scoreboard, #game-results{
+    text-align: center;
+    color: rgb(255, 123, 0);
+}
+
+
+#scoreboard, #game-results{
+    margin: 50px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: rgb(19, 165, 0);
+}
+
+section{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+ 
+button {
+    margin: 10px;
+    cursor: pointer;
+    padding: 10px;
+    background-color:  rgb(76, 74, 202);
+    border: 0;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+
+button:hover{
+    background-color: rgb(136, 135, 199);
+}
+
+.to-hide{
+    visibility: hidden;
+}
+
+body, .playAgain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to right, rgb(221, 218, 218) , rgb(40, 225, 238));
+    height: 100vh;
+    justify-content: center;
+}
