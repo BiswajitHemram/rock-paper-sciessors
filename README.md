@@ -1,5 +1,4 @@
 # Rock-Paper-Scissors
 
-Live Preview : <a href = 'https://biswajithemram.github.io/rock-paper-sciessors' target='_blank'>https://biswajithemram.github.io/rock-paper-sciessors</a>
+Live Preview : https://biswajithemram.github.io/rock-paper-sciessors
 
-<a href="https://biswajithemram.github.io/rock-paper-sciessors" target="_blank">Visit W3Schools</a>
