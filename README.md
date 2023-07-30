@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-<a href = 'https://biswajithemram.github.io/rock-paper-sciessors'>Live Preview : https://biswajithemram.github.io/rock-paper-sciessors</a>
+Live Preview : <a href = 'https://biswajithemram.github.io/rock-paper-sciessors' target='_blank'>https://biswajithemram.github.io/rock-paper-sciessors</a>
